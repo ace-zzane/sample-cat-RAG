@@ -13,3 +13,7 @@
 
 <img src="./Code Snippit.png">
 <img src="./Sample output.png">
+
+
+### Citation
+https://huggingface.co/blog/ngxson/make-your-own-rag
