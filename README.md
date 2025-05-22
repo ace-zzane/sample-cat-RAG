@@ -8,3 +8,8 @@
     install ollama package via terminal: 
       pip install ollama
     run code!
+
+#### gallery
+
+<img src="./Code Snippit.png">
+<img src="./Sample output.png">
